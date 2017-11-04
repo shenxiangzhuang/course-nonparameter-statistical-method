@@ -1,0 +1,55 @@
+QRank2005,QRank2004,City,Country,Points
+1,1,Geneva  ,Switzerland  ,106.5
+1,2,Zurich  ,Switzerland  ,106.5
+3,3,Vancouver  ,Canada  ,106
+3,3,Vienna  ,Austria  ,106
+5,5,Frankfurt  ,Germany ,105.5
+5,10,Munich  ,Germany  ,105.5
+5,12,Dusseldorf ,Germany  ,105.5
+8,5,Auckland  ,New Zealand  ,105
+8,5,Bern  ,Switzerland  ,105
+8,5,Copenhagen  ,Denmark  ,105
+8,5,Sydney  ,Australia  ,105
+12,10,Amsterdam  ,Netherlands  ,104.5
+13,13,Brussels  ,Belgium  ,104
+14,12,Melbourne  ,Australia  ,103.5
+14,15,Berlin  ,Germany  ,103.5
+14,15,Luxembourg  ,Luxembourg  ,103.5
+14,15,Stockholm ,Sweden  ,103.5
+14,12,Toronto  ,Canada  ,103.5
+14,15,Wellington  ,New Zealand  ,103.5
+20,20,Ottawa  ,Canada  ,103
+20,20,Perth  ,Australia  ,103
+22,20,Nurnberg  ,Germany  ,102.5
+22,23,Dublin  ,Ireland  ,102.5
+22,24,Montreal  ,Canada  ,102.5
+25,24,Adelaide  ,Australia  ,102
+25,24,Calgary  ,Canada  ,102
+25,24,Hamburg  ,Germany  ,102
+25,24,Helsinki  ,Finland  ,102
+25,24,Honolulu  ,USA  ,102
+25,24,San Francisco  ,USA  ,102
+31,24,Brisbane  ,Australia  ,101.5
+31,32,Oslo  ,Norway  ,101.5
+31,32,Paris  ,France  ,101.5
+34,34,Singapore  ,Singapore  ,101
+34,34,Tokyo  ,Japan  ,101
+36,36,Lyon  ,France  ,100.5
+36,36,Yokohama  ,France  ,100.5
+36,42,Boston  ,USA  ,100.5
+39,36,London  ,UK  ,100
+39,39,Kobe  ,Japan  ,100
+39,39,New York  ,USA  ,100
+42,39,Madrid  ,Spain ,99
+42,42,Portland  ,USA  ,99
+42,45,Barcelona  ,Spain ,99
+42,50,Washington DC ,USA  ,99
+46,44,Winston  ,USA  ,98.5
+46,45,Lexington  ,USA  ,98.5
+46,45,Osaka  ,Japan  ,98.5
+46,45,Pittsburgh  ,USA  ,98.5
+46,45,Seattle  ,USA  ,98.5
+51,50,Chicago  ,USA  ,98
+51,50,Milan ,Italy ,98
+53,52,Lisbon ,Portugal ,97.5
+53,52,Tsukuba ,Japan ,97.5

@@ -1,0 +1,282 @@
+\begin{thebibliography}{99}
+
+\bibitem{AB}Ansari, A.R. and Bradley, R.A. (1960). Rank-sum tests for dispersions.
+{\it Ann. Math. Statist.} {\bf 31,} 1174-89.
+
+\bibitem{B}Bartlett, M.S. (1935). Contingency table interactions. {\it Roy.
+Statist. Soc., Suppt.} {\bf 2,} 248-52.
+
+\bibitem{BC}Box, G. (1990). Comment on ``Applications in Business and Economic
+Statistics: Some Personal Views.'' {\it Statistical Science,} Vol.5
+No.4, 390-391.
+
+\bibitem{BFH}Bishop, Y.M.M., Fienberg, S.E. and Holland, P.W. (1975). {\it Discrete
+Multivariate Analysis Theory and Practice.} MIT Press, Cambridge,
+MA.
+
+\bibitem{Br}Bradley, J.V. (1968). {\it Distribution-Free Statistical Tests.}
+Prentice-Hall, New Jersey.
+
+\bibitem{BM0}Brown, M.B. and Benedetti, J.K. (1977). Sampling behaviour of tests for correlation in two-way
+contingency tables. {\it Journal of the American Statistical Association} 72, 309-315.
+
+\bibitem{BM}Brown, B.M. and Maritz, J.S. (1982). Distribution-free methods in
+regression. {\it Austral. J. Statist.,} {\bf 24,} 318-31.
+
+\bibitem{BM2}Brown, G.W. and Mood, A.M. (1948). {\it Amer. Statist.,} {\bf 2}(3), 22.
+
+\bibitem{Cleve} Cleveland, W.S. (1979) Robust Locally Weighted Regression and Smoothing Scatterplots,
+ {\it Journal of the American Statistical Association,} Vol. 74, pp. 829-836.
+
+\bibitem{Cleve&D} Cleveland, W.S. and Devlin, S.J. (1988)
+Locally Weighted Regression: An Approach to Regression Analysis by
+Local Fitting, {\it Journal of the American Statistical
+Association,} Vol. 83, pp. 596-610.
+
+\bibitem{C}Cochran, W.G. (1950). The comparison of percentages in matched samples.
+{\it Biometrika,} {\bf 37,} 256-66.
+
+\bibitem{Co}Conover, W.J. (1980). {\it Practical Nonparametric Statistics} (2nd
+edn). John Wiley \& Sons, New York.
+
+\bibitem{CS}Cox, D.R. and Stuart, A. (1955). Some quick tests for trend in location
+and dispersion. {\it Biometrika,} {\bf 42,} 80-95.
+
+\bibitem{Cr}Cram\'{e}r, H. (1928). On the composition of elementary errors. {\it
+Skand. Aktuarietids} {\bf 11,} 13-74, 141-80.
+
+\bibitem{D}Daniel, W.W. (1978). {\it Applied Nonparametric Statistics,} Houghton
+Mifflin Company, Boston.
+
+\bibitem{Du}Durbin, J. (1951). Incomplete blocks in ranking experiments. {\it Brit.
+J. Psychol.} (Statistical Section), {\bf 4,} 85-90.
+
+\bibitem{E}Efron, B. (1990). Comment on ``The Unity and Diversity of Probability.''
+{\it Statistical Science,} Vol.5 No.4, 450.
+
+
+\bibitem{Ency} Encyclop{\ae}dia Britannica (2008). ``Statistics.'' Encyclop{\ae}dia Britannica 2007 Ultimate Reference Suite .
+Chicago: Encyclop{\ae}dia Britannica.
+
+\bibitem{F}Fan, J. (1992). Design-adaptive nonparametric regression. {\it J. Amer.
+Statist. Assoc.} {\bf 87,} 998-1004.
+
+\bibitem{FG} Fan, J. and Gijbels (1996). {\it Local Polynomial Modelling and Its Applications,}
+Chapman \& Hall, London.
+
+\bibitem{Fi}Fienberg, S.E. (1980). {\it The Analysis of Cross Classified categorical
+Data} (Second edn). MIT Press, Cambridge, MA.
+
+\bibitem{Fis1}Fisher, R.A. (1922). On the interpretation of chi-square from
+contingency tables, and the calculation of. {\it P.J. Roy. Statist.
+Soc.,} {\bf 85,} 87-94.
+
+\bibitem{Fis2}Fisher, R.A. (1935a). {\it The Design of Experiments.} Oliver \& Boyd,
+Edinburgh.
+
+\bibitem{Fis3}Fisher, R.A. (1935b). The logic of inductive inference (with discussion).
+{\it J. R. Statist. Soc. A,} {\bf 98,} 39-54.
+
+\bibitem{FY}Fisher, R.A. and Yates, F. (1957). {\it Statistical Tables for
+Biological, Agricultural and Medical Research} (5th edn), Oliver \&
+Boyd, Edinburgh.
+
+\bibitem{FK}Fliger, M.A. and Killeen, T.J. (1976). Distribution-free two sample
+tests for scale. {\it J. Amer. Statist. Assoc.,} {\bf 71,} 210-3.
+
+\bibitem{Fra}Fraser, D.A.S. (1957). Most powerful rank-type tests. {\it Ann. Math.
+Statist.} {\bf 28,} 1040-3.
+
+\bibitem{Fri}Friedman, M.A. (1937). The use of ranks to avoid the assumptions of
+normality implicit in the analysis of variance. {\it J. Amer.Statist. Assoc.} {\bf 32,} 675-701.
+
+\bibitem{Fri2}Friedman, J. (1984) A Variable Span Smoother, {\it Technical Report}
+No. 5, Stanford Uni, CA.
+
+\bibitem{Good1} Goodman, Leo A. and Kruskal, William H. (1954). Measures of association for cross classifications.{\it J. Amer.Statist. Assoc.}  49 (268): 732–764.
+\bibitem{Good2}Goodman, Leo A. and Kruskal, William H. (1959). Measures of association for cross classifications. II: further discussion and references. {\it J. Amer.Statist. Assoc.} 54 (285): 123–163.
+\bibitem{Good3}Goodman, Leo A. and Kruskal, William H. (1963). Measures of association for cross classifications III: approximate sampling theory. {\it J. Amer.Statist. Assoc.} 58 (302): 310–364.
+\bibitem{Good4}Goodman, Leo A. and Kruskal, William H. (1972). Measures of association for cross classifications, IV: simplification of asymptotic variances". {\it J. Amer.Statist. Assoc.}  67 (338): 415–421.
+\bibitem{Good5}Goodman, L.A. (1978). {\it Analyzing Qualitative/Categorical Data:
+Log-Linear Models and Latent-Structure Analysis.} Abt Books,Cambridge, MA.
+
+\bibitem{HZ}H\'{a}jek, J. and Zbyn\v{e}k, \v{S}. (1967). {\it Theory of Rank Tests.}
+Academic Press, New York.
+
+\bibitem{HRR}Hampel, F.R. Ronchetti, E.M., Rousseeuw, P.J. and Stahel, W.A. (1986). {\it
+Robust Statistics.} John Wiley \& Sons, New York.
+
+\bibitem{Ha}H\"{a}rdle, W. (1980). {\it Smoothing Techniques with Implementation in
+S.} Springer-Verlag, New York.
+
+\bibitem{Ha1}H\"{a}rdle, W. (1990). {\it Applied Nonparametric Regression.} Cambridge
+University Press, Cambridge.
+
+\bibitem{HT}Hastie, T.J. and Tibshirani, R.J. (1990) {\it Generalized Additive
+Models.} Chapman and Hall, London.
+
+\bibitem{He}Hettmansperger, T.P. (1984) {\it Statistical Inference Based on Ranks.}
+John Wiley \& Sons, New York.
+
+\bibitem{HL}Hodges, J.L., Jr. and Lehmann, E.L. (1963). Estimates of location based
+on rank tests. {\it Ann. Math. Statist.} {\bf 34,} 598-611.
+
+\bibitem{Heef}Hoeffding, W. (1951). "Optimum" nonparametric tests. {\it Proceedings of
+the Second Berkeley Symposium on mathematical Statistics and
+Probability.} 83-92, University of California Press, Berkeley.
+
+\bibitem{Hu}Huber, P.J. (1981). {\it Robust Statistics.} Wiley, New York.
+
+\bibitem{Jon}Jonckheere, A.R. (1954). A distribution free $k$-sample test against
+ordered alternatives. {\it Biometrika,} {\bf. 41,} 133-45.
+
+\bibitem{K}Kendall, M.G. (1938). A new measure of rank correlation. {\it
+Biometrika,} {\bf 30,} 81-93.
+
+\bibitem{K1}Kendall, M.G. (1945). The Treatment of Ties in Ranking Problems. {\it Biometrika,} {\bf 33,} 239-251.
+
+\bibitem{K2}Kendall, M.G. (1962). {\it Rank Correlation Methods} (3rd edn), Griffin,
+London.
+
+\bibitem{KS}Kendall, M.G. and Smith, B.B. (1939). The problem of $m$ rankings. {\it
+Ann. Math. Statist.} {\bf 23,} 525-40.
+
+\bibitem{Kol}Kolmogorov, A.N. (1933). Sulla determinazione empirica di una legge di
+distribuzione. {\it Giorn. Inst. Ital. Att.} {\bf 4.} 83-91.
+
+\bibitem{Kon}Konijn, H.S. (1956). On the power of certain tests for independence in
+bivariate populations. {\it Ann. Math. Statist.} {\bf 27,} 300-323.
+Correction: {\it Ann. Math. Statist.} {\bf 29,} (1958), 935.
+
+\bibitem{Kot}Kotz, S. and Johnson, N.L. (eds) (1983). {\it Encyclopedia of
+Statistical Sciences.} John Wiley \& Sons, New York.
+
+\bibitem{KW}Kruskal, W.H. and Wallis, W.A. (1952). Use of ranks in one-criterion
+variance analysis. {\it J. Amer. Statist. Assoc.,} {\bf 47,}
+583-621.
+
+\bibitem{L}Leach, C. (1979). {\it Introduction to Statistics. A Nonparametric
+Approach for the Social Sciences,} John Wiley \& Sons, Chichester.
+
+\bibitem{Le}Lehmann, E.L. (1975). {\it Nonparametrics: Statistical Methods Based on
+Ranks.} Holden-Day, San Francisco.
+
+\bibitem{Le2}Lehmann, E. L. (1986). {\it Testing Stochastical Hypotheses.} Second
+Edition, Wiley, New York.
+
+\bibitem{Li}Liliefors, H.W. (1967). On the Kolmogorov-Smirnov test for normality
+with mean and variance unknown. {\it J. Amer. Statist. Assoc.} {\bf
+62,} 399-402.
+
+\bibitem{MN}McCullagh, P. and Nelder, J.A. (1989). {\it Generalized Linear Models,}
+(2nd edn,) Chapman and Hall, London.
+
+\bibitem{MW}Mann, H.B. and Whitney, D.R. (1947). On a test of whether one of two
+random variables is stochastically larger than the other. {\it Ann.
+Math. Statist.,} {\bf 18,} 50-60.
+
+\bibitem{MTW} Marsaglia, G,  Tsang, W.W and Wang J. (2003). Evaluating
+     Kolmogorov's distribution. {\it Journal of Statistical Software},
+     18, 8.
+
+\bibitem{Mo}Mood, A.M. (1940). The distribution theory of runs. {\it Ann.
+Math. Statist.,} {\bf 11,} 367-92.
+
+\bibitem{Mo2}Mood, A.M. (1954). On the asymptotic efficiency of certain nonparametric
+two-sample tests. {\it Ann. Math. Statist.,} {\bf 25,} 514-22.
+
+\bibitem{Mu}M\"{u}ller, H. (1980). {\it Nonparametric Regression Analysis of
+Longitudinal Data.} Springer-Verlag, Berlin.
+
+\bibitem{Noe}Noether, G.E. (1981). Why Kandall's tau? {\it Applied Statistics,} {\bf
+3,} 41-3.
+
+
+\bibitem{Pa}Page, E.B. (1963). Ordered hypotheses for multiple treatments: a
+significant test for linear ranks. {\it J. Amer. Statist. Assoc.,}
+{\bf 58,} 216-30.
+
+\bibitem{Pat} Patil K. D. (1975) Cochran's Q Test: Exact Distribution.
+{\it J. Amer. Statist. Assoc.,} {\bf 70,} 186-9.
+
+\bibitem{Pi}Pitman, E.J.G. (1948). {\it Mimeographed lecture notes on nonparametric
+statistics}. Columbia University.
+
+\bibitem{Pl}Plackett, R.L. (1974). {\it The Analysis of Categorical Data.} Griffin,
+London.
+
+\bibitem{RW}Randles, R.H. and Wolfe D.A. (1979). {\it Introduction to The Theory of
+Nonparametric Statistics.} John Wiley \& Sons, New York.
+
+\bibitem{Rao}Rao, C.R. and Toutenburg, H. (1995). {\it Linear Models.}
+Springer-Verlag, New York.
+
+\bibitem{Rou}Rousseeuw, P.J. and Leroy, A.M. (1987). {\it Robust Regression and
+Outlier Detection.} John Wiley \& Sons, New York.
+
+\bibitem{Sh}Shafer, G. (1990) The Unity and Diversity of Probability. {\it
+Statistical Science,} Vol.5 No.4, 435-462.
+
+\bibitem{Si1} Siegel, A.F. (1982). Robust Regression Using Repeated Medians. {\it Biometrika}, 69, 1, 242-244.
+
+\bibitem{Si2}Siegel, S. and Tukey, J.W. (1960). A nonparametric sum of ranks
+procedure for relative spread in unpaired samples. {\it J. Amer.
+Statist. Assoc.} {\bf 55,} 429-45.
+
+\bibitem{Si3}Silverman, B.W. (1986). {\it Density Estimation for Statistics and Data
+Analysis.} Chapman and Hall, London.
+
+\bibitem{Sim} Simonoff, J. S. (1996) {\it Smothing Methods in Statistics,} Springer-Verlag, New York.
+
+\bibitem{Sm}Smirnov, N.V. (1939). On the estimation of discrepancy between empirical
+curves of distribution for two independent samples (in Russian).
+{\it Bulletin Moscow University,} {\bf 2,} 3-16.
+
+\bibitem{Sp}Spearman, C. (1904). The proof of and measurement of association between
+two things. {\it Amer. J. Psychol.,} {\bf 15,} 72-101.
+
+\bibitem{SPr}Sprent, P. (1989). {\it Applied Nonparametric Statistical Methods.}
+Chapman and Hall, London.
+
+\bibitem{St}Stone, C.J. (1977). Consistent nonparametric regression. {\it Ann,
+Statist.} {\bf 5,} 595-645.
+
+\bibitem{Ta}Tate, M.W. and Brown, S.M. (1964). {\it Table for Comparing Related Sample Percentages and for the Median Test (monograph).} Philadelphia: Graduate School of Education, University of Pennsylvania.
+
+\bibitem{Te}Terpstra, T.J. (1952). The asymptotic normality and consistency of
+Kendall's test against trend, when ties are present in one ranking.
+{\it Indag. Math.} {\bf 14,} 327-33.
+
+\bibitem{Th}Theil, H. (1950). A rank invariant method of linear and polynomial
+regression analysis, I, II, III. {\it Proc. Kon. Nederl. Akad.
+Wetensch,} A. {\it 53,} 386-92, 521-5, 1397-412.
+
+\bibitem{Tu}Tukey, T.W. (1958). Bias and confidence is not quit large samples.
+Abstract. {\it Ann. Math. Statist.,} {\bf 29,} 614.
+
+\bibitem{ven}ven der Waerden, B.L. (1957). {\it Mathematische Statistik.}
+Springer-Verlag, Berlin.
+
+\bibitem{Ven}Vendables, W.N. and Ripley, B.D. (1997). {\it Modern Applied Statistics
+with S-plus.} Second edition, Springer-Verlag, New York.
+
+\bibitem{Wil}Wilcoxon, F. (1945). Individual comparisons by ranking methods. {\it
+Biometrics,} {\bf 1,} 80-3.
+
+\bibitem{von}von Mises, R. (1931). Vorlesungen aus dem Gebiete der angewandten
+Mathematik. {\bf Vol. 1.} {\it Wahrscheinlichkeitsrechnung und ihre
+Anwendung in der Statistik und Theoretischen Physik,} Franz Deutike,
+Leipzig and Vienna.
+
+\bibitem{WW} 吴喜之, 王兆军 (1996). 非参数统计方法. 高等教育出版社, 北京.
+
+\bibitem{Y}Yates, F. (1934). Contingency tables involving small numbers and the
+$\chi^2$ test. {\it J. R. Statist. Soc. Suppl.,} {\bf 1,} 217-35.
+
+
+\bibitem{Y2}Yates, F. (1984). Tests of significance for $2\times 2$ contingency
+tables. {\it J. Roy. Statist. Soc.,} {\bf A, 147,} 426-63.
+
+\bibitem{Zhang}张尧庭 (1991). 定性资料的统计分析. 广西师范大学出版社. 桂林.
+
+\end{thebibliography}

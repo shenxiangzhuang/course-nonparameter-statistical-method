@@ -1,0 +1,21 @@
+Mon Nov 13 11:04:10 2006 :journaling started
+GET
+ FILE='D:\BOOKNP\data\blead.sav'.
+NPAR TESTS
+ /FRIEDMAN = City1 City2 City3
+ /MISSING LISTWISE
+ /METHOD=EXACT TIMER(5).
+GET
+ FILE='D:\BOOKNP\data\wtloss.sav'.
+NPAR TESTS
+ /K-W=wtloss   BY group(1 3)
+ /J-T=wtloss   BY group(1 3)
+ /MISSING ANALYSIS
+ /METHOD=EXACT TIMER(5).
+UNIANOVA
+ wtloss  BY group
+ /METHOD = SSTYPE(3)
+ /INTERCEPT = INCLUDE
+ /PRINT = PARAMETER
+ /CRITERIA = ALPHA(.05)
+ /DESIGN = group .
