@@ -1,4 +1,4 @@
-# 章节内容
+# 第二章
 
 # 2.1.1 获取符号检验结果
 sign.test <- function(x, p, q0){
@@ -22,7 +22,7 @@ sign.test <- function(x, p, q0){
 
 
 library(readr)
-ExpensiveCities <- read_csv("~/Documents/MyPrograming/R/非参数统计/data/ExpensiveCities.csv")
+ExpensiveCities <- read_csv("/home/shensir/Documents/MyPrograming/R/NonparameterStat-Course-WIth-R/data/ExpensiveCities.csv")
 #View(ExpensiveCities)
 hist(ExpensiveCities$`Index_including rent`)
 library(DescTools)
@@ -60,7 +60,7 @@ mci <-  function(x, alpha=0.05){
 
 # way1 test
 library(readr)
-data2.2 <- read_table("~/Documents/MyPrograming/R/非参数统计/data/tax.txt",
+data2.2 <- read_table("/home/shensir/Documents/MyPrograming/R/NonparameterStat-Course-WIth-R/data/tax.txt",
                       col_names = FALSE)
 # 注意前面读入的数据格式，这里要索引出来纯数据
 mci(data2.2, 1-0.999989)
@@ -124,7 +124,7 @@ qci(data2.2, alpha = 1-0.999989, q = 0.5)
 # 2.2 Wilcoxon符号秩检验
 
 library(haven)
-euroalc <- read_sav("~/Documents/MyPrograming/R/非参数统计/data/euroalc.sav")
+euroalc <- read_sav("/home/shensir/Documents/MyPrograming/R/NonparameterStat-Course-WIth-R/data/euroalc.sav")
 euroalc <- sort(euroalc$y)
 
 # 右侧秩和检验
@@ -175,7 +175,7 @@ ns(euroalc, 12.5)
 #参考[https://www.r-bloggers.com/trend-analysis-with-the-cox-stuart-test-in-r/]
 
 library(readr)
-TJAir <- read_table("~/Documents/MyPrograming/R/非参数统计/data/TJAir.txt",
+TJAir <- read_table("/home/shensir/Documents/MyPrograming/R/NonparameterStat-Course-WIth-R/data/TJAir.txt",
                       col_names = FALSE)
 
 TJAir <- as.vector(t(TJAir))  # 按行合并成vector[按列的话就用unlist]
@@ -223,7 +223,7 @@ cox.stuart.test(TJAir)
 # 注意tseries的run.test仅能用于近似正态的游程检验
 library(tseries)
 library(haven)
-run02 <- read_sav("~/Documents/MyPrograming/R/非参数统计/data/run02.sav")
+run02 <- read_sav("/home/shensir/Documents/MyPrograming/R/NonparameterStat-Course-WIth-R/data/run02.sav")
 run02 <- as.vector(t(run02))
 y <- factor(sign(run02-median(run02)))
 tseries::runs.test(y)
@@ -300,7 +300,7 @@ run.test(run02, median(run02))
 
 # S1: Load data
 library(readr)
-data2.6.1 <- read.delim("~/Documents/MyPrograming/R/非参数统计/data/2.6.1.TXT", header = FALSE)
+data2.6.1 <- read.delim("/home/shensir/Documents/MyPrograming/R/NonparameterStat-Course-WIth-R/data/2.6.1.TXT", header = FALSE)
 data2.6.1 <- as.vector(t(data2.6.1))
 # S2: 计算
 # median
@@ -351,7 +351,7 @@ sign.test(data2.6.1, 0.25, 750)  # p=0.16>0.05,没有理由拒绝H0，认为下�
 
 # T7
 library(readr)
-data2.6.7 <- read.delim("~/Documents/MyPrograming/R/非参数统计/data/2.6.7.TXT", header = FALSE)
+data2.6.7 <- read.delim("/home/shensir/Documents/MyPrograming/R/NonparameterStat-Course-WIth-R/data/2.6.7.TXT", header = FALSE)
 data2.6.7 <- as.vector(t(data2.6.7))
 tseries::runs.test(factor(data2.6.7))  # p=0.7123>0.05,所以接受H0，认为其随机
 
