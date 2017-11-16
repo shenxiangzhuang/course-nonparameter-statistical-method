@@ -1,2 +1,4 @@
-# NonparameterStat-Course-WIth-R
 Nonparameter Statistical Methods
+
+使用R语言实现非参数统计方法，参考教材为，中国统计出版社，吴喜之，赵博娟老师的《非参数统计》（第四版）。
+书中代码大部分来自教材，并对一些不当之处进行了简单的修改并添加注释。此外还进行了一些完善和补充，水平有限，不当之处还请指正。
