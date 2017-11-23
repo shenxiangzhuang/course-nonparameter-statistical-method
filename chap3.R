@@ -75,6 +75,8 @@ z <- read.table("/home/shensir/Documents/MyPrograming/R/NonparameterStat-Course-
 df <- data.frame(z)
 x <- df[1][df[2] == 1]
 y <- df[1][df[2] == 2]
+m <- length(x)
+n <- length(y)
 
 w <- cbind(c(x ,y), c(rep(1,17), rep(2, 15)))  # 教材这句少了一个括号
 w <- w[order(w[, 1]), ]
