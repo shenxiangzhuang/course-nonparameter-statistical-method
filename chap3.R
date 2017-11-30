@@ -241,7 +241,7 @@ for (i in k){
 }
 
 C <- rbind(m1, m2)  # 2x2矩阵
-# p-value = 0.9714 reject H0
+# p-value = 0.9714 can not reject H0
 fisher.test(C, alternative = "less")
 
 
@@ -249,6 +249,11 @@ fisher.test(C, alternative = "less")
 data <- read.table("/home/shensir/Documents/MyPrograming/R/NonparameterStat-Course-WIth-R/data/3.7.4.txt")
 A <- data$V2[data$V1==1]
 B <- data$V2[data$V1==2]
-wilcox.test(A, B, "less" )  # p-value = 0.9087 reject H0
+wilcox.test(A, B, "less" )  # p-value = 0.9087, can not reject H0
+
+
+m <- prophet(df[1:(length(df$ds)-9), ])
+future <- make_future_dataframe(m, periods = 9, freq = 'm',)
+tail(future,9)
 
 
