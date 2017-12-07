@@ -112,12 +112,13 @@ kruskal.test(d[, 1], d[, 2])
 # J-T
 # 按照中位数从小到大的顺序重新排列数据
 medians <- aggregate(V1~V2, d, median)
-orders <- order(medians$V1)
+orders <- order(medians$V1)  # 5 1 2 4 3
 rep.orders <- NULL
 for(i in orders){rep.orders <- c(rep.orders, 
                                  rep(i, nrow(d[d$V2==i, ])))}
 ordered.d <- d[match(rep.orders, d$V2), ]
 
 library(clinfun)
+# H1: theta5 <= theta1 <= ... <= theta3
 jonckheere.test(ordered.d[, 1], ordered.d[, 2], alternative = "increasing")
 
