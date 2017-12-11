@@ -92,8 +92,8 @@ pVal <- pnorm(Z)  # 0.01925286
 
 # 3.4 成对数据的检验
 
-# 符号检验？？？
-# 书上下面用的psignrank， 感觉应该用pbinom，先存疑...
+# 符号检验
+# 书上下面用的psignrank， 感觉应该用pbinom
 # two-side
 pVal <- 2*pbinom(min(sum(x<y), sum(x>y)), n, 1/2)
 # H1: MD > MD0
