@@ -129,9 +129,10 @@ library(clinfun)
 jonckheere.test(d[, 1], d[, 2], alternative = "increasing")
 
 #T9
-d <- read.table("/home/shensir/Documents/MyPrograming/R/NonparameterStat-Course-WIth-R/data/4.10.9.txt")
+# d <- read.table("/home/shensir/Documents/MyPrograming/R/NonparameterStat-Course-WIth-R/data/4.10.9.txt")
+d <- read.table(file.choose())                                                                  
 k <- max(d[, 2])
-b <- max(d[, 3])
+b <- max(d[, 3])        
 t <- length(d[d[,3]==1,1])
 r <- length(d[d[,2]==1,1])
 R <- d
